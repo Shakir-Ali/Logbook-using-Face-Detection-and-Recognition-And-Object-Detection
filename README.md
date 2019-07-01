@@ -1,3 +1,5 @@
+# Logbook using Face Detection and Recognition And Object Detection
+# -SHAKIR ALI
 The following are the list of requirements to run this project:
 Python 3 Along with the libraries
 numpy
